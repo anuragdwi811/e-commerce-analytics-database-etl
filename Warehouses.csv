@@ -1,0 +1,31 @@
+﻿warehouse_id,warehouse_name,city,state,region,capacity,warehouse_type,opening_date,status
+WH001,Mumbai Central Fulfillment Center,Mumbai,Maharashtra,West,90000,Fulfillment,15-02-2021,Active
+WH002,Delhi NCR Distribution Center,Gurugram,Haryana,North,95000,Distribution,10-04-2021,Active
+WH003,Bengaluru National Fulfillment Hub,Bengaluru,Karnataka,South,100000,Hub,20-06-2021,Active
+WH004,Chennai Fulfillment Center,Chennai,Tamil Nadu,South,80000,Fulfillment,05-08-2021,Active
+WH005,Pune Regional Distribution Center,Pune,Maharashtra,West,60000,Regional,12-10-2021,Active
+WH006,Kolkata East Distribution Center,Kolkata,West Bengal,East,68000,Distribution,18-01-2022,Active
+WH007,Hyderabad Fulfillment Center,Hyderabad,Telangana,South,72000,Fulfillment,25-03-2022,Active
+WH008,Ahmedabad Regional Warehouse,Ahmedabad,Gujarat,West,52000,Regional,14-05-2022,Active
+WH009,Lucknow North Distribution Center,Lucknow,Uttar Pradesh,North,50000,Distribution,08-07-2022,Active
+WH010,Jaipur Regional Warehouse,Jaipur,Rajasthan,North,42000,Regional,19-09-2022,Active
+WH011,Indore Central Fulfillment Hub,Indore,Madhya Pradesh,Central,70000,Hub,07-11-2022,Active
+WH012,Coimbatore Fulfillment Center,Coimbatore,Tamil Nadu,South,44000,Fulfillment,16-01-2022,Active
+WH013,Nagpur Central Distribution Center,Nagpur,Maharashtra,West,58000,Distribution,11-03-2022,Active
+WH014,Kochi Regional Warehouse,Kochi,Kerala,South,36000,Regional,22-05-2022,Active
+WH015,Surat Fulfillment Center,Surat,Gujarat,West,54000,Fulfillment,09-07-2022,Active
+WH016,Bhopal Central Distribution Center,Bhopal,Madhya Pradesh,Central,38000,Distribution,15-09-2022,Active
+WH017,Patna East Distribution Center,Patna,Bihar,East,41000,Distribution,03-11-2022,Active
+WH018,Visakhapatnam Fulfillment Center,Visakhapatnam,Andhra Pradesh,South,48000,Fulfillment,17-02-2023,Active
+WH019,Delhi Legacy Regional Warehouse,Delhi,Delhi,North,30000,Regional,20-01-2021,Inactive
+WH020,Mumbai Regional Warehouse,Mumbai,Maharashtra,West,32000,Regional,01-06-2022,Maintenance
+WH021,Chandigarh North Distribution Center,Chandigarh,Chandigarh,North,36000,Distribution,02-06-2022,Active
+WH022,Bhubaneswar East Regional Warehouse,Bhubaneswar,Odisha,East,34000,Regional,18-06-2024,Active
+WH023,Vadodara Fulfillment Center,Vadodara,Gujarat,West,45000,Fulfillment,05-08-2023,Active
+WH024,Ranchi Distribution Center,Ranchi,Jharkhand,East,33000,Distribution,21-10-2024,Active
+WH025,Mysuru Regional Warehouse,Mysuru,Karnataka,South,28000,Regional,07-04-2023,Active
+WH026,Noida Fulfillment Center,Noida,Uttar Pradesh,North,65000,Fulfillment,13-06-2023,Active
+WH027,Nashik Distribution Warehouse,Nashik,Maharashtra,West,40000,Distribution,24-08-2022,Active
+WH028,Thiruvananthapuram Regional Warehouse,Thiruvananthapuram,Kerala,South,30000,Regional,09-01-2024,Maintenance
+WH029,Guwahati East Regional Warehouse,Guwahati,Assam,East,27000,Regional,16-05-2022,Active
+WH030,Raipur Central Distribution Center,Raipur,Chhattisgarh,Central,37000,Distribution,02-09-2022,Active

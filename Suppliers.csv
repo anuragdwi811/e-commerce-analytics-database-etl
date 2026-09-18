@@ -1,0 +1,100 @@
+﻿supplier_id,supplier_name,supplier_type,city,state,region,rating,payment_terms,lead_time_days,supplier_status
+SUP001,Apex Digital Components Pvt Ltd,Manufacturer,Mumbai,Maharashtra,West,4.6,Net 30,6,active
+SUP002,Shree Mobile Solutions,Distributor,Delhi,Delhi,North,4.7,Net 15,7,active
+SUP003,Bharat Consumer Electronics,Manufacturer,Bengaluru,Karnataka,South,4.7,Net 30,5,active
+SUP005,Nova Computer Systems,Manufacturer,Chennai,Tamil Nadu,South,4.6,Net 30,4,active
+SUP007,Prime Audio Technologies,Manufacturer,Noida,Uttar Pradesh,North,4.9,Net 15,9,active
+SUP008,Western Gadget Imports,Importer,Pune,Maharashtra,West,4.6,Advance,16,active
+SUP009,Southline Electronics Distribution,Distributor,Noida,Uttar Pradesh,North,4.8,Net 30,5,active
+SUP010,TechSource India,Distributor,Gurugram,Haryana,North,4.8,Net 45,3,active
+SUP011,Galaxy Display Systems,Manufacturer,Coimbatore,Tamil Nadu,South,4.8,Net 30,6,active
+SUP012,Omkar Electrical Products,Manufacturer,Ludhiana,Punjab,North,4.8,Net 45,8,active
+SUP013,Urban Device Traders,Wholesaler,Delhi,Delhi,North,4.8,Net 15,3,active
+SUP014,Vertex Computer Peripherals,Manufacturer,Nagpur,Maharashtra,West,4.7,Net 60,9,active
+SUP015,National Imaging Solutions,Distributor,Mumbai,Maharashtra,West,4.8,Net 30,3,active
+SUP016,BrightHome Appliances,Manufacturer,Pune,Maharashtra,West,4.7,Net 45,6,active
+SUP017,Maharashtra Electronics Hub,Wholesaler,Pune,Maharashtra,West,4.7,Net 30,5,active
+SUP018,Elite Digital Imports,Importer,Pune,Maharashtra,West,4.5,Advance,16,active
+SUP019,Crest Consumer Technologies,Brand Partner,Noida,Uttar Pradesh,North,4.5,Net 45,8,active
+SUP020,Reliable Office Equipment,Distributor,Kochi,Kerala,South,4.6,Net 45,3,active
+SUP021,Sapphire Electronics Manufacturing,Manufacturer,Noida,Uttar Pradesh,North,4.7,Net 30,6,Active
+SUP023,IndoTech Components,Manufacturer,Surat,Gujarat,West,4.9,Net 30,5,Active
+SUP024,Sunrise Mobile Accessories,Wholesaler,Nagpur,Maharashtra,West,4.9,Net 30,4,Active
+SUP027,PrimeVision Technologies,Manufacturer,Indore,Madhya Pradesh,Central,4.5,Net 15,9,Active
+SUP028,BluePeak Digital Solutions,Brand Partner,Gurugram,Haryana,North,4.5,Net 30,6,Active
+SUP029,Western India Gadget Supply,Distributor,Mumbai,Maharashtra,West,4.9,Net 30,5,Active
+SUP030,Shakti Computer Products,Manufacturer,Pune,Maharashtra,West,4.9,Net 30,4,Active
+SUP032,TechBridge Distribution India,Distributor,Chennai,Tamil Nadu,South,4.7,Net 15,7,Active
+SUP033,Orion Smart Devices,Manufacturer,Chennai,Tamil Nadu,South,4.8,Net 30,5,Active
+SUP034,Classic Digital Imports,Importer,Kolkata,West Bengal,East,4.5,Advance,18,Active
+SUP035,FutureLink Electronics,Distributor,Kolkata,West Bengal,East,4.8,Net 30,3,Active
+SUP036,Bharat Peripheral Industries,Manufacturer,Gurugram,Haryana,North,4.9,Net 45,6,Active
+SUP038,Innovate Consumer Devices,Brand Partner,Gurugram,Haryana,North,4.5,Net 30,6,Active
+SUP040,Maxwell Electronic Components,Manufacturer,Ludhiana,Punjab,North,4.6,Net 30,4,Active
+SUP041,National Gadget Imports,Importer,Mumbai,Maharashtra,West,4,Advance,19,Active
+SUP043,Digital Edge Technologies,Manufacturer,Mumbai,Maharashtra,West,4.4,Net 30,7,Active
+SUP044,Metro Consumer Distribution,Distributor,Delhi,Delhi,North,4.3,Net 30,7,Active
+SUP045,PrimeLink Electronic Supplies,Distributor,Bengaluru,Karnataka,S,4.2,Net 30,4,Active
+SUP046,Aarav Technology Products,Manufacturer,Kochi,Kerala,S,4.1,Net 45,8,Active
+SUP047,Western Circuit Solutions,Manufacturer,Chennai,Tamil Nadu,S,4.3,Net 15,11,Active
+SUP049,NextGen Digital Imports,Importer,Noida,Uttar Pradesh,North,4.1,Net 30,19,Active
+SUP050,Crown Electronics India,Brand Partner,Kolkata,West Bengal,East,4,Net 30,7,Active
+SUP051,Heritage Fashion Distributors,Distributor,Noida,Uttar Pradesh,North,4.4,Net 30,6,Active
+SUP052,Royal Apparel Manufacturing,Manufacturer,Vadodara,Gujarat,West,4.3,Net 45,10,Active
+SUP053,UrbanStyle Clothing Supply,Wholesaler,Kolkata,West Bengal,East,4,Net 15,5,Active
+SUP054,CottonCraft Garments India,Manufacturer,Ludhiana,Punjab,North,4.3,Net 60,11,Active
+SUP055,Elegance Fashion House,Brand Partner,Kochi,Kerala,South,4.1,Net 45,7,Active
+SUP056,StyleHub Wholesale Traders,Wholesaler,Ahmedabad,Gujarat,West,4.3,Net 15,6,Active
+SUP057,Classic Footwear Industries,Manufacturer,Mumbai,Maharashtra,West,4.3,Net 15,11,Active
+SUP058,Metro Fashion Distribution,Distributor,Delhi,Delhi,North,4.3,Net 60,7,Active
+SUP059,Jaipur Textile & Apparel Works,Manufacturer,Jaipur,Rajasthan,North,4.4,Net 60,11,Active
+SUP060,Trendline Fashion Imports,Importer,Gurugram,Haryana,North,4.1,Net 15,17,Active
+SUP061,Aarohi Lifestyle Products,Brand Partner,Mumbai,Maharashtra,West,4,Net 30,9,Active
+SUP062,Prime Garment Distributors,Distributor,Ahmedabad,Gujarat,West,4,Net 15,9,Active
+SUP063,Shree Textile Wholesale,Wholesaler,Surat,Gujarat,West,4.2,Net 15,5,Active
+SUP064,ComfortStep Footwear India,Manufacturer,Gurugram,Haryana,North,4,Net 60,11,Active
+SUP065,Fashion Avenue Traders,Distributor,Noida,Uttar Pradesh,North,4.2,Net 30,4,Active
+SUP066,HomeCraft Kitchen Products,Manufacturer,Vadodara,Gujarat,West,4.3,Net 45,8,Active
+SUP067,Bharat Cookware Industries,Manufacturer,Coimbatore,Tamil Nadu,South,4,Net 15,11,Active
+SUP068,KitchenPro Distribution,Distributor,Lucknow,Uttar Pradesh,North,4,Net 60,7,Active
+SUP069,UrbanHome Furnishings,Wholesaler,Indore,Madhya Pradesh,Central,4.4,Net 30,6,Active
+SUP070,Royal Tableware Industries,Manufacturer,Nagpur,Maharashtra,West,4.1,Net 30,6,Active
+SUP071,HomeStyle Decor Supply,Distributor,Mumbai,Maharashtra,West,4,Net 30,6,Active
+SUP072,Comfort Living Products,Manufacturer,Pune,Maharashtra,West,4,Net 45,10,Active
+SUP073,Classic Furniture Works,Manufacturer,Bengaluru,Karnataka,South,4.3,Net 30,7,Active
+SUP074,Household Essentials Wholesale,Wholesaler,Mumbai,Maharashtra,West,4.1,Net 30,6,Active
+SUP075,BrightLiving Home Imports,Importer,Ahmedabad,Gujarat,West,4.1,Net 15,17,Active
+SUP076,KitchenMate Appliances,Brand Partner,Hyderabad,Telangana,South,4.4,Net 30,9,Active
+SUP077,Metro Home Products,Distributor,Kolkata,West Bengal,East,4.3,Net 15,9,Active
+SUP078,Shree Home Utility Traders,Wholesaler,Lucknow,Uttar Pradesh,North,4.4,Advance,5,Active
+SUP079,Elite Furniture Distribution,Distributor,Delhi,Delhi,North,4.4,Net 30,7,Active
+SUP080,PureGlow Beauty Products,Manufacturer,Vadodara,Gujarat,West,4.3,Net 30,6,Active
+SUP081,NatureCare Personal Products,Manufacturer,Coimbatore,Tamil Nadu,South,4.1,Net 30,8,Active
+SUP082,BeautyLine Distributors,Distributor,Lucknow,Uttar Pradesh,North,4,Net 15,9,Active
+SUP083,GlowMart Beauty Wholesale,Wholesaler,Hyderabad,Telangana,South,4.3,Net 15,5,Active
+SUP084,Radiant Cosmetics India,Brand Partner,Pune,Maharashtra,West,4.1,Net 60,12,Active
+SUP085,Heritage Fragrance Imports,Importer,Ahmedabad,Gujarat,West,4,Net 15,17,Active
+SUP086,SkinCare Essentials Manufacturing,Manufacturer,Pune,Maharashtra,West,4.2,Net 45,8,Active
+SUP087,Urban Beauty Distribution,Distributor,Bengaluru,Karnataka,South,4.3,Net 15,9,Active
+SUP088,Aaradhya Personal Care,Manufacturer,Ahmedabad,Gujarat,West,4.2,Net 30,7,Active
+SUP089,Prime Cosmetics Wholesale,Wholesaler,Kolkata,West Bengal,East,4.2,Net 30,6,Active
+SUP090,FreshHarvest Grocery Suppliers,Distributor,Ahmedabad,Gujarat,West,4,Net 45,4,Active
+SUP091,Bharat Food Products,Manufacturer,Delhi,Delhi,North,4.2,Net 30,8,Active
+SUP092,GreenField Grocery Wholesale,Wholesaler,Ahmedabad,Gujarat,West,4.2,Net 30,7,Active
+SUP093,DailyChoice Foods Distribution,Distributor,Delhi,Delhi,North,4.4,Net 45,5,Active
+SUP094,Shree Grain & Pulses Traders,Wholesaler,Bhopal,Madhya Pradesh,Central,4.2,Net 30,6,Active
+SUP095,HarvestGold Food Industries,Manufacturer,Coimbatore,Tamil Nadu,South,4,Net 30,6,Active
+SUP096,NatureBasket Food Supplies,Distributor,Lucknow,Uttar Pradesh,North,4,Net 45,6,Active
+SUP097,SpiceRoute Foods,Manufacturer,Indore,Madhya Pradesh,Central,4,Net 15,11,Active
+SUP098,PureHarvest Imports,Importer,Pune,Maharashtra,West,4,Advance,18,Active
+SUP099,Everyday Grocery Partners,Brand Partner,Delhi,Delhi,North,4.2,Net 45,10,Active
+SUP100,ProSport Equipment India,Manufacturer,Pune,Maharashtra,West,4.1,Net 30,6,Active
+SUP101,CricketPro Sports Distributors,Distributor,Bengaluru,Karnataka,South,4.1,Net 30,6,Active
+SUP102,Champion Sports Wholesale,Wholesaler,Lucknow,Uttar Pradesh,North,4.3,Net 30,7,Active
+SUP103,ActiveGear Sports Industries,Manufacturer,Chennai,Tamil Nadu,South,4.4,Net 30,7,Active
+SUP104,GamePoint Sports Supply,Distributor,Ahmedabad,Gujarat,West,4.1,Net 30,7,Active
+SUP105,SportLine Imports,Importer,Ahmedabad,Gujarat,West,4.2,Net 15,17,Active
+SUP106,Elite Fitness Equipment,Manufacturer,Gurugram,Haryana,North,4.2,Net 45,8,Active
+SUP107,YogaLife Products,Brand Partner,Chennai,Tamil Nadu,South,4.2,Net 60,13,Active
+SUP108,RacketWorld Sports Traders,Wholesaler,Nagpur,Maharashtra,West,4.3,Advance,5,Active
+SUP109,OutdoorPro Recreation Supplies,Distributor,Jaipur,Rajasthan,North,4.2,Net 30,7,Active

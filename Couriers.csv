@@ -1,0 +1,16 @@
+﻿courier_id,courier_name,service_type,rating,status
+COU001,SwiftShip Logistics,Express,4.6,Active
+COU002,PrimeRoute Express,Standard,4.4,Active
+COU003,MetroFast Delivery,Same Day,4.7,Active
+COU004,National Parcel Network,Standard,4.2,Active
+COU005,QuickKart Logistics,Next Day,4.5,Active
+COU006,BlueRoute Couriers,Economy,4.1,Active
+COU007,UrbanSprint Delivery,Same Day,4.6,Active
+COU008,TrustedWay Logistics,Standard,4.3,Active
+COU009,SpeedLink Express,Express,4.8,Active
+COU010,ValueParcel Services,Economy,3.8,Active
+COU011,RegionalConnect Logistics,Standard,4.1,Active
+COU012,FastTrack Delivery,Next Day,4.5,Active
+COU013,PremiumRoute Logistics,Premium,4.7,Active
+COU014,EastWest Parcel Services,Standard,3.9,Inactive
+COU015,CityLine Courier Network,Express,3.6,Suspended

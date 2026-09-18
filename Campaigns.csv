@@ -1,0 +1,41 @@
+﻿campaign_id,campaign_name,campaign_type,channel,start_date,end_date,budget,actual_spend,target_segment,status
+CAMP001,Republic Day Smart Deals,Seasonal,Google Ads,10-01-2023,26-01-2023,420000,357000,All Customers,completed
+CAMP002,New Year Customer Acquisition,Acquisition,Meta Ads,02-01-2023,20-01-2023,360000,295200,New Customers,completed
+CAMP003,Valentine Shopping Offers,Promotional,Email,05-02-2023,14-02-2023,140000,123200,Regular Customers,completed
+CAMP004,Holi Mega Savings,Seasonal,Meta Ads,01-03-2023,12-03-2023,360000,306000,All Customers,completed
+CAMP005,Summer Electronics Festival,Promotional,Google Ads,15-04-2023,15-05-2023,620000,508400,All Customers,completed
+CAMP006,Premium Customer Rewards,Retention,Email,05-05-2023,25-05-2023,160000,147200,Premium Customers,completed
+CAMP007,Monsoon Home Essentials,Seasonal,YouTube,20-06-2023,20-07-2023,420000,365400,All Customers,completed
+CAMP008,New Customer Welcome Drive,Acquisition,Google Ads,01-07-2023,31-07-2023,390000,362700,New Customers,completed
+CAMP009,Independence Day Mega Sale,Seasonal,Meta Ads,01-08-2023,15-08-2023,520000,462800,All Customers,completed
+CAMP010,Raksha Bandhan Gift Festival,Seasonal,Influencer,20-08-2023,31-08-2023,280000,271600,All Customers,completed
+CAMP011,Back To School Essentials,Promotional,Google Ads,01-06-2023,25-06-2023,240000,235200,Regular Customers,completed
+CAMP012,Inactive Customer Win Back,Retention,Email,01-09-2023,20-09-2023,130000,124800,Inactive Customers,completed
+CAMP013,Festive Shopping Kickoff 2023,Promotional,Meta Ads,25-09-2023,10-10-2023,480000,460800,All Customers,completed
+CAMP014,Diwali Mega Shopping Festival,Seasonal,Google Ads,25-10-2023,18-11-2023,760000,646000,All Customers,completed
+CAMP015,Diwali Premium Rewards,Retention,Push Notification,01-11-2023,15-11-2023,150000,129000,VIP Customers,completed
+CAMP016,Winter Lifestyle Sale,Promotional,YouTube,20-11-2023,10-12-2023,360000,324000,Regular Customers,completed
+CAMP017,Christmas Gift Campaign,Seasonal,Influencer,05-12-2023,25-12-2023,300000,294000,All Customers,completed
+CAMP018,Year End Clearance Sale,Promotional,Google Ads,15-12-2023,31-12-2023,520000,462800,All Customers,completed
+CAMP019,Republic Day Value Offers,Seasonal,Meta Ads,08-01-2024,26-01-2024,450000,418500,All Customers,completed
+CAMP020,Fresh Customer Acquisition 2024,Acquisition,Google Ads,15-01-2024,15-02-2024,420000,373800,New Customers,completed
+CAMP021,Valentine Premium Collection,Promotional,Influencer,01-02-2024,14-02-2024,220000,200200,Premium Customers,completed
+CAMP022,Holi Colorful Shopping Festival,Seasonal,Meta Ads,12-03-2024,28-03-2024,390000,323700,All Customers,completed
+CAMP023,Summer Fashion And Electronics,Promotional,Google Ads,10-04-2024,20-05-2024,650000,617500,All Customers,completed
+CAMP024,Customer Loyalty Rewards,Retention,Push Notification,01-05-2024,25-05-2024,180000,160200,Regular Customers,completed
+CAMP025,Monsoon Essentials Campaign,Seasonal,YouTube,15-06-2024,20-07-2024,440000,382800,All Customers,completed
+CAMP026,Independence Day Savings,Seasonal,Meta Ads,01-08-2024,18-08-2024,540000,469800,All Customers,Completed
+CAMP027,Raksha Bandhan Gifting Campaign,Seasonal,Influencer,05-08-2024,20-08-2024,320000,300800,All Customers,Completed
+CAMP028,Lapsed Customer Reactivation,Retention,Email,01-09-2024,30-09-2024,190000,172900,Lapsed Customers,Completed
+CAMP029,Festive Shopping Kickoff 2024,Promotional,Google Ads,20-09-2024,10-10-2024,500000,435000,All Customers,Completed
+CAMP030,Diwali Grand Shopping Festival,Seasonal,Meta Ads,15-10-2024,08-11-2024,820000,762600,All Customers,Completed
+CAMP031,Premium Diwali Rewards,Retention,Push Notification,25-10-2024,10-11-2024,190000,176700,Premium Customers,Completed
+CAMP032,Winter Electronics Launch,Product Launch,YouTube,15-11-2024,10-12-2024,500000,470000,All Customers,Completed
+CAMP033,Christmas And New Year Offers,Seasonal,Influencer,10-12-2024,31-12-2024,420000,352800,All Customers,Completed
+CAMP034,New Year Acquisition Drive,Acquisition,Google Ads,02-01-2025,25-01-2025,460000,432400,New Customers,Completed
+CAMP035,Republic Day Mega Savings,Seasonal,Meta Ads,10-01-2025,26-01-2025,500000,485000,All Customers,Completed
+CAMP036,Spring Electronics Launch,Product Launch,YouTube,15-02-2025,10-03-2025,520000,452400,All Customers,Completed
+CAMP037,Summer Customer Growth Campaign,Acquisition,Google Ads,01-04-2025,15-05-2025,480000,432000,New Customers,Completed
+CAMP038,Premium Loyalty Appreciation,Retention,Email,01-06-2025,25-06-2025,210000,199500,VIP Customers,Completed
+CAMP039,Festive Shopping Kickoff 2025,Promotional,Meta Ads,20-09-2025,10-10-2025,520000,431600,All Customers,Completed
+CAMP040,Diwali Grand Shopping Festival 2025,Seasonal,Google Ads,10-10-2025,25-10-2025,850000,782000,All Customers,Completed

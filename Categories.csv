@@ -1,0 +1,121 @@
+﻿category_id,category_name,department,category_status
+CAT001,Smartphones,Electronics,active
+CAT002,Laptops,Electronics,active
+CAT003,Tablets,Electronics,active
+CAT004,Televisions,Electronics,active
+CAT005,Headphones & Earbuds,Electronics,active
+CAT006,Speakers,Electronics,active
+CAT007,Cameras,Electronics,active
+CAT008,Smartwatches,Electronics,active
+CAT009,Computer Accessories,Electronics,active
+CAT010,Mobile Accessories,Electronics,active
+CAT011,Gaming Consoles,Electronics,active
+CAT012,Printers & Scanners,Electronics,active
+CAT013,Men's Clothing,Fashion,active
+CAT014,Women's Clothing,Fashion,active
+CAT015,Kids Clothing,Fashion,active
+CAT016,Men's Footwear,Fashion,active
+CAT017,Women's Footwear,Fashion,active
+CAT018,Kids Footwear,Fashion,Active
+CAT019,Handbags & Wallets,Fashion,Active
+CAT020,Watches,Fashion,Active
+CAT021,Fashion Jewellery,Fashion,Active
+CAT022,Sunglasses,Fashion,Active
+CAT023,Luggage & Travel Bags,Fashion,Active
+CAT024,Sportswear,Fashion,Active
+CAT025,Kitchen Appliances,Home & Kitchen,Active
+CAT026,Cookware,Home & Kitchen,Active
+CAT027,Bakeware,Home & Kitchen,Active
+CAT028,Dining & Serveware,Home & Kitchen,Active
+CAT029,Storage & Organization,Home & Kitchen,Active
+CAT030,Furniture,Home & Kitchen,Active
+CAT031,Home Decor,Home & Kitchen,Active
+CAT032,Bedding,Home & Kitchen,Active
+CAT033,Bath Accessories,Home & Kitchen,Active
+CAT034,Cleaning Supplies,Home & Kitchen,Active
+CAT035,Lighting,Home & Kitchen,Active
+CAT036,Home Improvement,Home & Kitchen,Active
+CAT037,Face Makeup,Beauty,Active
+CAT038,Eye Makeup,Beauty,Active
+CAT039,Lip Makeup,Beauty,Active
+CAT040,Makeup Tools,Beauty,Active
+CAT041,Skincare,Beauty,Active
+CAT042,Haircare,Beauty,Active
+CAT043,Hair Styling,Beauty,Active
+CAT044,Fragrances,Beauty,Active
+CAT045,Nail Care,Beauty,Active
+CAT046,Bath & Body,Beauty,Active
+CAT047,Beauty Gift Sets,Beauty,Inactive
+CAT048,Men's Grooming,Beauty,Active
+CAT049,Rice & Grains,Grocery,Active
+CAT050,Pulses & Lentils,Grocery,Active
+CAT051,Flour & Baking Ingredients,Grocery,Active
+CAT052,Cooking Oils,Grocery,Active
+CAT053,Spices & Masalas,Grocery,Active
+CAT054,Snacks,Grocery,Active
+CAT055,Beverages,Grocery,Active
+CAT056,Breakfast Foods,Grocery,Active
+CAT057,Packaged Foods,Grocery,Active
+CAT058,Sauces & Condiments,Grocery,Active
+CAT059,Dry Fruits & Nuts,Grocery,Active
+CAT060,Dairy & Alternatives,Grocery,Active
+CAT061,Cricket Equipment,Sports,Active
+CAT062,Football Equipment,Sports,Active
+CAT063,Badminton Equipment,Sports,Active
+CAT064,Tennis Equipment,Sports,Active
+CAT065,Fitness Equipment,Sports,Active
+CAT066,Yoga Equipment,Sports,Active
+CAT067,Running Gear,Sports,Active
+CAT068,Cycling Equipment,Sports,Active
+CAT069,Sports Bags,Sports,Active
+CAT070,Outdoor Recreation,Sports,Active
+CAT071,Team Sports Accessories,Sports,Inactive
+CAT072,Sports Protective Gear,Sports,Inactive
+CAT073,Fiction,Books,Active
+CAT074,Non-Fiction,Books,Active
+CAT075,Business & Management,Books,Active
+CAT076,Self-Help,Books,Active
+CAT077,Technology Books,Books,Active
+CAT078,Academic Books,Books,Active
+CAT079,Competitive Exam Books,Books,Active
+CAT080,Children's Books,Books,Active
+CAT081,Comics & Graphic Novels,Books,Inactive
+CAT082,Biography & Memoir,Books,Active
+CAT083,History & Politics,Books,Active
+CAT084,Travel & Lifestyle,Books,Inactive
+CAT085,Educational Toys,Toys,Active
+CAT086,Building Sets,Toys,Active
+CAT087,Action Figures,Toys,Active
+CAT088,Dolls & Dollhouses,Toys,Active
+CAT089,Remote Control Toys,Toys,Active
+CAT090,Board Games,Toys,Active
+CAT091,Puzzles,Toys,Active
+CAT092,Outdoor Toys,Toys,Active
+CAT093,Musical Toys,Toys,Active
+CAT094,Baby Toys,Toys,Active
+CAT095,Pretend Play,Toys,Active
+CAT096,Collectibles,Toys,Discontinued
+CAT097,Car Accessories,Automotive,Active
+CAT098,Motorcycle Accessories,Automotive,Active
+CAT099,Car Electronics,Automotive,Active
+CAT100,Motorcycle Electronics,Automotive,Active
+CAT101,Car Care,Automotive,Active
+CAT102,Oils & Fluids,Automotive,Active
+CAT105,Tools & Equipment,Automotive,Active
+CAT106,Safety & Emergency,Automotive,Active
+CAT107,Interior Accessories,Automotive,Active
+CAT108,Exterior Accessories,Automotive,Active
+CAT109,Oral Care,Personal Care,Active
+CAT110,Shaving & Hair Removal,Personal Care,Active
+CAT111,Deodorants,Personal Care,Active
+CAT112,Personal Hygiene,Personal Care,Active
+CAT113,Feminine Care,Personal Care,Active
+CAT114,Men's Personal Care,Personal Care,Active
+CAT115,Hand & Foot Care,Personal Care,Active
+CAT116,Personal Care Appliances,Personal Care,Active
+CAT117,Health & Wellness Essentials,Personal Care,Active
+CAT118,Baby Care,Personal Care,Active
+CAT119,Travel Personal Care,Personal Care,Discontinued
+CAT120,Personal Care Gift Sets,Personal Care,Inactive
+CAT103,Tyres & Wheels,Automotive,Inactive
+CAT104,Batteries,Automotive,Inactive

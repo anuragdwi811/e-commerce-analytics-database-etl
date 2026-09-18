@@ -1,0 +1,361 @@
+﻿subcategory_id,category_id,subcategory_name,subcategory_status
+SUB0001,CAT001,Android Smartphones,active
+SUB0002,CAT001,iOS Smartphones,active
+SUB0003,CAT001,Feature Phones,active
+SUB0004,CAT002,Gaming Laptops,active
+SUB0005,CAT002,Business Laptops,active
+SUB0006,CAT002,Student & Everyday Laptops,active
+SUB0007,CAT003,Android Tablets,active
+SUB0008,CAT003,iPad Tablets,active
+SUB0009,CAT003,Kids Tablets,active
+SUB0010,CAT004,LED Televisions,active
+SUB0011,CAT004,QLED Televisions,active
+SUB0012,CAT004,OLED Televisions,active
+SUB0013,CAT005,True Wireless Earbuds,active
+SUB0014,CAT005,Over-Ear Headphones,active
+SUB0015,CAT005,Neckband Headphones,active
+SUB0016,CAT006,Bluetooth Speakers,active
+SUB0017,CAT006,Home Audio Speakers,Active
+SUB0018,CAT006,Portable Speakers,Active
+SUB0019,CAT007,DSLR Cameras,Active
+SUB0020,CAT007,Mirrorless Cameras,Inactive
+SUB0021,CAT007,Action Cameras,Active
+SUB0022,CAT008,Fitness Smartwatches,Active
+SUB0023,CAT008,Premium Smartwatches,Active
+SUB0024,CAT008,Kids Smartwatches,Active
+SUB0025,CAT009,Computer Keyboards & Mice,Active
+SUB0026,CAT009,Computer Monitors,Active
+SUB0027,CAT009,Computer Storage & Components,Active
+SUB0028,CAT010,Phone Cases & Covers,Active
+SUB0029,CAT010,Chargers & Power Adapters,Active
+SUB0030,CAT010,Power Banks,Active
+SUB0031,CAT011,Gaming Consoles,Active
+SUB0032,CAT011,Gaming Handhelds,Active
+SUB0033,CAT011,Console Accessories,Active
+SUB0034,CAT012,Inkjet Printers,Active
+SUB0035,CAT012,Laser Printers,Active
+SUB0036,CAT012,Scanners,Active
+SUB0037,CAT013,T-Shirts & Tops,Active
+SUB0038,CAT013,Shirts,Active
+SUB0039,CAT013,Trousers & Jeans,Active
+SUB0040,CAT014,Dresses & Gowns,Inactive
+SUB0041,CAT014,Tops & Blouses,Active
+SUB0042,CAT014,Ethnic Wear,Active
+SUB0043,CAT015,Kids T-Shirts & Tops,Active
+SUB0044,CAT015,Kids Dresses,Active
+SUB0045,CAT015,Kids Bottomwear,Active
+SUB0046,CAT016,Casual Shoes,Active
+SUB0047,CAT016,Formal Shoes,Active
+SUB0048,CAT016,Sandals & Slippers,Active
+SUB0049,CAT017,Casual Shoes,Active
+SUB0050,CAT017,Formal Shoes,Active
+SUB0051,CAT017,Sandals & Slippers,Active
+SUB0052,CAT018,Kids Casual Shoes,Active
+SUB0053,CAT018,Kids School Shoes,Active
+SUB0054,CAT018,Kids Sandals & Slippers,Active
+SUB0055,CAT019,Handbags,Active
+SUB0056,CAT019,Wallets & Purses,Active
+SUB0057,CAT019,Backpacks,Active
+SUB0058,CAT020,Analog Watches,Active
+SUB0059,CAT020,Digital Watches,Inactive
+SUB0060,CAT020,Smart & Hybrid Watches,Active
+SUB0061,CAT021,Fashion Jewellery Sets,Active
+SUB0062,CAT021,Necklaces & Pendants,Active
+SUB0063,CAT021,Earrings & Bracelets,Active
+SUB0064,CAT022,Fashion Sunglasses,Active
+SUB0065,CAT022,Sports Sunglasses,Active
+SUB0066,CAT022,Polarized Sunglasses,Active
+SUB0067,CAT023,Suitcases,Active
+SUB0068,CAT023,Travel Backpacks,Active
+SUB0069,CAT023,Duffel & Travel Bags,Active
+SUB0070,CAT024,T-Shirts & Jerseys,Active
+SUB0071,CAT024,Sports Shorts & Trousers,Active
+SUB0072,CAT024,Sports Tracksuits,Active
+SUB0073,CAT025,Electric Kitchen Appliances,Active
+SUB0074,CAT025,Food Preparation Appliances,Active
+SUB0075,CAT025,Cooking Appliances,Active
+SUB0076,CAT026,Non-Stick Cookware,Inactive
+SUB0077,CAT026,Stainless Steel Cookware,Active
+SUB0078,CAT026,Cast Iron Cookware,Active
+SUB0079,CAT027,Cake Baking Supplies,Active
+SUB0080,CAT027,Baking Trays & Pans,Active
+SUB0081,CAT027,Baking Tools & Accessories,Active
+SUB0082,CAT028,Dinner Sets,Active
+SUB0083,CAT028,Serving Bowls & Platters,Active
+SUB0084,CAT028,Tableware,Active
+SUB0085,CAT029,Food Storage Containers,Active
+SUB0086,CAT029,Kitchen Organizers,Active
+SUB0087,CAT029,Pantry Storage,Active
+SUB0088,CAT030,Sofas & Living Room Furniture,Active
+SUB0089,CAT030,Beds & Bedroom Furniture,Active
+SUB0090,CAT030,Tables & Chairs,Active
+SUB0091,CAT031,Wall Decor,Active
+SUB0092,CAT031,Decorative Accessories,Inactive
+SUB0093,CAT031,Clocks & Mirrors,Active
+SUB0094,CAT032,Bed Sheets,Active
+SUB0095,CAT032,Blankets & Comforters,Active
+SUB0096,CAT032,Pillows & Cushions,Active
+SUB0097,CAT033,Bath Towels,Active
+SUB0098,CAT033,Shower & Bath Accessories,Active
+SUB0099,CAT033,Bathroom Storage,Active
+SUB0100,CAT034,Cleaning Tools,Active
+SUB0101,CAT034,Laundry Supplies,Active
+SUB0102,CAT034,Household Cleaning Products,Active
+SUB0103,CAT035,Ceiling & Pendant Lights,Active
+SUB0104,CAT035,Table & Floor Lamps,Active
+SUB0105,CAT035,Decorative Lighting,Active
+SUB0106,CAT036,Hand Tools,Active
+SUB0107,CAT036,Hardware & Fittings,Active
+SUB0108,CAT036,Home Repair Supplies,Active
+SUB0109,CAT037,Foundation Makeup,Active
+SUB0110,CAT037,Concealers,Inactive
+SUB0111,CAT037,Blush & Highlighters,Active
+SUB0112,CAT038,Eyeshadow,Active
+SUB0113,CAT038,Eyeliner & Kajal,Active
+SUB0114,CAT038,Mascara,Active
+SUB0115,CAT039,Lipsticks,Active
+SUB0116,CAT039,Lip Gloss,Active
+SUB0117,CAT039,Lip Liners,Active
+SUB0120,CAT040,Makeup Accessories,Active
+SUB0121,CAT041,Face Care,Active
+SUB0122,CAT041,Body Care,Active
+SUB0123,CAT041,Sun Care,Active
+SUB0124,CAT042,Shampoo,Active
+SUB0125,CAT042,Conditioner,Active
+SUB0126,CAT042,Hair Treatments,Active
+SUB0127,CAT043,Hair Styling Products,Active
+SUB0128,CAT043,Hair Dryers & Straighteners,Active
+SUB0129,CAT043,Hair Styling Accessories,Active
+SUB0130,CAT044,Perfumes,Inactive
+SUB0131,CAT044,Eau de Toilette,Active
+SUB0132,CAT044,Body Mists,Active
+SUB0133,CAT045,Nail Polish,Active
+SUB0134,CAT045,Nail Tools,Active
+SUB0135,CAT045,Nail Treatment,Active
+SUB0136,CAT046,Body Wash & Shower Gel,Active
+SUB0137,CAT046,Body Lotions & Creams,Active
+SUB0138,CAT046,Bath Essentials,Active
+SUB0139,CAT047,Beauty Gift Sets,Inactive
+SUB0140,CAT047,Makeup Gift Sets,Inactive
+SUB0141,CAT047,Skincare Gift Sets,Inactive
+SUB0142,CAT048,Men's Shaving,Active
+SUB0143,CAT048,Men's Hair Care,Active
+SUB0144,CAT048,Men's Fragrances,Active
+SUB0145,CAT049,Rice,Active
+SUB0146,CAT049,Wheat & Other Grains,Active
+SUB0147,CAT049,Specialty Grains,Active
+SUB0148,CAT050,Lentils,Active
+SUB0149,CAT050,Pulses,Active
+SUB0150,CAT050,Beans & Peas,Inactive
+SUB0151,CAT051,Wheat Flour,Active
+SUB0152,CAT051,Baking Mixes,Active
+SUB0153,CAT051,Baking Ingredients,Active
+SUB0154,CAT052,Sunflower & Soybean Oil,Active
+SUB0155,CAT052,Mustard Oil,Active
+SUB0156,CAT052,Olive & Specialty Oils,Active
+SUB0157,CAT053,Whole Spices,Active
+SUB0158,CAT053,Ground Spices,Active
+SUB0159,CAT053,Masala Blends,Active
+SUB0160,CAT054,Chips & Crisps,Inactive
+SUB0161,CAT054,Biscuits & Cookies,Active
+SUB0162,CAT054,Namkeen & Savory Snacks,Active
+SUB0163,CAT055,Soft Drinks,Active
+SUB0164,CAT055,Juices,Active
+SUB0165,CAT055,Tea & Coffee,Active
+SUB0166,CAT056,Cereals,Active
+SUB0167,CAT056,Oats & Muesli,Active
+SUB0168,CAT056,Breakfast Spreads,Active
+SUB0169,CAT057,Ready-to-Eat Foods,Active
+SUB0170,CAT057,Packaged Staples,Inactive
+SUB0171,CAT057,Instant & Convenience Foods,Active
+SUB0172,CAT058,Cooking Sauces,Active
+SUB0173,CAT058,Ketchup & Dips,Active
+SUB0174,CAT058,Pickles & Chutneys,Active
+SUB0175,CAT059,Almonds & Cashews,Active
+SUB0176,CAT059,Raisins & Dried Berries,Active
+SUB0177,CAT059,Mixed Nuts & Seeds,Active
+SUB0178,CAT060,Milk & Dairy,Active
+SUB0179,CAT060,Plant-Based Alternatives,Active
+SUB0180,CAT060,Cheese & Dairy Products,Active
+SUB0181,CAT061,Cricket Bats,Active
+SUB0182,CAT061,Cricket Balls,Active
+SUB0183,CAT061,Cricket Protective Equipment,Active
+SUB0184,CAT062,Footballs,Active
+SUB0185,CAT062,Football Shoes,Active
+SUB0186,CAT062,Football Protective Equipment,Active
+SUB0187,CAT063,Badminton Rackets,Active
+SUB0188,CAT063,Shuttlecocks,Active
+SUB0189,CAT063,Badminton Accessories,Active
+SUB0190,CAT064,Tennis Rackets,Inactive
+SUB0191,CAT064,Tennis Balls,Active
+SUB0192,CAT064,Tennis Accessories,Active
+SUB0193,CAT065,Treadmills & Cardio Machines,Active
+SUB0194,CAT065,Dumbbells & Weights,Active
+SUB0195,CAT065,Strength Training Equipment,Active
+SUB0196,CAT066,Yoga Mats,Active
+SUB0197,CAT066,Yoga Blocks & Accessories,Active
+SUB0198,CAT066,Yoga Clothing,Active
+SUB0199,CAT067,Running Shoes,Active
+SUB0200,CAT067,Running Clothing,Active
+SUB0201,CAT067,Running Accessories,Active
+SUB0202,CAT068,Cycling Bikes,Active
+SUB0203,CAT068,Cycling Helmets,Active
+SUB0204,CAT068,Cycling Accessories,Active
+SUB0205,CAT069,Sports Backpacks,Active
+SUB0206,CAT069,Sports Duffel Bags,Active
+SUB0207,CAT069,Sports Equipment Bags,Active
+SUB0208,CAT070,Camping & Hiking Gear,Active
+SUB0209,CAT070,Outdoor Games,Active
+SUB0210,CAT070,Outdoor Fitness & Recreation,Inactive
+SUB0211,CAT071,Team Sports Equipment,Inactive
+SUB0212,CAT071,Team Sports Training Gear,Inactive
+SUB0213,CAT071,Team Sports Accessories,Inactive
+SUB0214,CAT072,Protective Helmets & Guards,Inactive
+SUB0215,CAT072,Sports Support & Braces,Inactive
+SUB0216,CAT072,Sports Safety Equipment,Inactive
+SUB0217,CAT073,Novels,Active
+SUB0218,CAT073,Short Stories,Active
+SUB0219,CAT073,Poetry,Active
+SUB0220,CAT074,General Non-Fiction,Inactive
+SUB0221,CAT074,Reference Books,Active
+SUB0222,CAT074,Essays & Collections,Active
+SUB0223,CAT075,Entrepreneurship,Active
+SUB0224,CAT075,Finance & Accounting,Active
+SUB0225,CAT075,Leadership & Management,Active
+SUB0226,CAT076,Personal Development,Active
+SUB0227,CAT076,Motivation & Productivity,Active
+SUB0228,CAT076,Relationships & Life Skills,Active
+SUB0229,CAT077,Programming & Software,Active
+SUB0230,CAT077,IT & Computer Science,Active
+SUB0231,CAT077,Technology Reference,Active
+SUB0232,CAT078,School Textbooks,Active
+SUB0233,CAT078,College & University Books,Active
+SUB0234,CAT078,Study Guides,Active
+SUB0235,CAT079,Competitive Exam Preparation,Active
+SUB0236,CAT079,Government Exam Books,Active
+SUB0237,CAT079,Entrance Exam Books,Active
+SUB0238,CAT080,School-age Children's Books,Active
+SUB0239,CAT080,Picture Books,Active
+SUB0240,CAT080,Early Learning Books,Inactive
+SUB0241,CAT081,Superhero Comics,Inactive
+SUB0242,CAT081,Manga & Graphic Novels,Inactive
+SUB0243,CAT081,Comic Collections,Inactive
+SUB0244,CAT082,Autobiographies,Active
+SUB0245,CAT082,Biographies,Active
+SUB0246,CAT082,Memoirs,Active
+SUB0247,CAT083,World History,Active
+SUB0248,CAT083,Indian History,Active
+SUB0249,CAT083,Politics & Government,Active
+SUB0250,CAT084,Travel Guides,Inactive
+SUB0251,CAT084,Travel Writing,Inactive
+SUB0252,CAT084,Lifestyle Books,Inactive
+SUB0253,CAT085,Learning & Activity Toys,Active
+SUB0254,CAT085,STEM Educational Toys,Active
+SUB0255,CAT085,Preschool Educational Toys,Active
+SUB0256,CAT086,Building Blocks,Active
+SUB0257,CAT086,Construction Kits,Active
+SUB0258,CAT086,STEM Building Sets,Active
+SUB0259,CAT087,Action Figures,Active
+SUB0260,CAT087,Superhero Action Figures,Active
+SUB0261,CAT087,Collectible Action Figures,Active
+SUB0262,CAT088,Dolls,Active
+SUB0263,CAT088,Dollhouses,Active
+SUB0264,CAT088,Doll Accessories,Active
+SUB0265,CAT089,Remote Control Cars,Active
+SUB0266,CAT089,Remote Control Vehicles,Active
+SUB0267,CAT089,Remote Control Drones,Active
+SUB0268,CAT090,Strategy Board Games,Active
+SUB0269,CAT090,Family Board Games,Active
+SUB0270,CAT090,Kids Board Games,Inactive
+SUB0271,CAT091,Jigsaw Puzzles,Active
+SUB0272,CAT091,Educational Puzzles,Active
+SUB0273,CAT091,3D Puzzles,Active
+SUB0274,CAT092,Outdoor Sports Toys,Active
+SUB0275,CAT092,Ride-On Toys,Active
+SUB0276,CAT092,Water & Beach Toys,Active
+SUB0277,CAT093,Musical Instruments for Kids,Active
+SUB0278,CAT093,Musical Learning Toys,Active
+SUB0279,CAT093,Electronic Musical Toys,Active
+SUB0280,CAT094,Baby Development Toys,Active
+SUB0281,CAT094,Baby Sensory Toys,Active
+SUB0282,CAT094,Baby Teething Toys,Active
+SUB0283,CAT095,Pretend Play Sets,Active
+SUB0284,CAT095,Role Play Toys,Active
+SUB0285,CAT095,Play Kitchens & Sets,Active
+SUB0286,CAT096,Collectible Figures,Discontinued
+SUB0287,CAT096,Trading Collectibles,Discontinued
+SUB0288,CAT096,Model Collectibles,Discontinued
+SUB0289,CAT097,Car Interior Accessories,Active
+SUB0290,CAT097,Car Exterior Accessories,Inactive
+SUB0291,CAT097,Car Utility Accessories,Active
+SUB0292,CAT098,Motorcycle Riding Accessories,Active
+SUB0293,CAT098,Motorcycle Storage Accessories,Active
+SUB0294,CAT098,Motorcycle Maintenance Accessories,Active
+SUB0295,CAT099,Car Audio & Entertainment,Active
+SUB0296,CAT099,Dash Cameras,Active
+SUB0297,CAT099,GPS & Navigation,Active
+SUB0298,CAT100,Motorcycle Electronics,Active
+SUB0299,CAT100,Motorcycle Lighting,Active
+SUB0300,CAT100,Motorcycle Security Electronics,Active
+SUB0301,CAT101,Car Cleaning Products,Active
+SUB0302,CAT101,Car Polishing Products,Active
+SUB0303,CAT101,Car Detailing Accessories,Active
+SUB0304,CAT102,Engine Oils,Active
+SUB0305,CAT102,Transmission Fluids,Active
+SUB0306,CAT102,Coolants & Brake Fluids,Active
+SUB0313,CAT105,Automotive Hand Tools,Active
+SUB0314,CAT105,Garage Equipment,Active
+SUB0315,CAT105,Diagnostic Tools,Active
+SUB0316,CAT106,Car Safety Equipment,Active
+SUB0317,CAT106,Motorcycle Safety Equipment,Active
+SUB0318,CAT106,Emergency Roadside Equipment,Active
+SUB0319,CAT107,Car Seat Covers & Mats,Active
+SUB0320,CAT107,Car Organizers,Inactive
+SUB0321,CAT107,Car Interior Electronics,Active
+SUB0322,CAT108,Car Exterior Trim,Active
+SUB0323,CAT108,Car Covers,Active
+SUB0324,CAT108,Car Body Accessories,Active
+SUB0325,CAT109,Toothpaste,Active
+SUB0326,CAT109,Toothbrushes,Active
+SUB0327,CAT109,Mouthwash,Active
+SUB0328,CAT110,Razors,Active
+SUB0329,CAT110,Shaving Creams & Gels,Active
+SUB0330,CAT110,Hair Removal Products,Active
+SUB0331,CAT111,Deodorant Sprays,Active
+SUB0332,CAT111,Roll-On Deodorants,Active
+SUB0333,CAT111,Deodorant Sticks,Active
+SUB0334,CAT112,Hand Wash,Active
+SUB0335,CAT112,Body Hygiene,Active
+SUB0336,CAT112,Personal Hygiene Essentials,Active
+SUB0337,CAT113,Feminine Hygiene Products,Active
+SUB0338,CAT113,Menstrual Care,Active
+SUB0307,CAT103,Car Tyres,Inactive
+SUB0339,CAT113,Feminine Hygiene Accessories,Active
+SUB0340,CAT114,Men's Skincare,Active
+SUB0341,CAT114,Men's Haircare,Active
+SUB0342,CAT114,Men's Fragrances,Active
+SUB0343,CAT115,Hand Care,Active
+SUB0344,CAT115,Foot Care,Active
+SUB0345,CAT115,Nail & Foot Treatment,Active
+SUB0346,CAT116,Electric Shavers & Trimmers,Active
+SUB0347,CAT116,Hair Dryers & Styling Appliances,Active
+SUB0348,CAT116,Personal Care Massagers,Active
+SUB0349,CAT117,Vitamins & Wellness Essentials,Active
+SUB0350,CAT117,Health Monitoring Essentials,Active
+SUB0351,CAT117,Wellness & Recovery Products,Active
+SUB0352,CAT118,Baby Bath & Hygiene,Active
+SUB0353,CAT118,Baby Skincare,Active
+SUB0354,CAT118,Baby Grooming,Active
+SUB0355,CAT119,Travel Toiletry Kits,Discontinued
+SUB0356,CAT119,Travel Hygiene Essentials,Discontinued
+SUB0357,CAT119,Compact Personal Care Products,Discontinued
+SUB0358,CAT120,Personal Care Gift Sets,Inactive
+SUB0359,CAT120,Men's Grooming Gift Sets,Inactive
+SUB0360,CAT120,Wellness Gift Sets,Inactive
+SUB0308,CAT103,Motorcycle Tyres,Inactive
+SUB0309,CAT103,Alloy Wheels & Rims,Inactive
+SUB0310,CAT104,Car Batteries,Inactive
+SUB0311,CAT104,Motorcycle Batteries,Inactive
+SUB0312,CAT104,Battery Accessories,Inactive
+SUB0118,CAT040,Makeup Brushes,Inactive
+SUB0119,CAT040,Makeup Sponges,Inactive
